@@ -11,13 +11,13 @@ Objectives
   *  Advanced control of one radiator valve which doesn’t seem to turn one radiator off
   *  Essentially produce a log of day to day activities
 
-== Installing the API Library ==
+## Installing the API Library 
 
 This project uses the API library from Angelo Santagata https://github.com/asantaga/wiserheatingapi
 * In a temporary directiory: `git clone https://github.com/asantaga/wiserheatingapi`
 * python3 setup.py build
 
-== Running this library ==
+## Running this library
 
 Populate the wiserkeys.params file as described in the above repository.
 
