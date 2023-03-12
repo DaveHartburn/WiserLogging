@@ -15,7 +15,7 @@ Objectives
 
 This project uses the API library from Angelo Santagata https://github.com/asantaga/wiserheatingapi
 * In a temporary directiory: `git clone https://github.com/asantaga/wiserheatingapi`
-* python3 setup.py build
+* sudo python3 setup.py install
 
 ## Running this library
 
