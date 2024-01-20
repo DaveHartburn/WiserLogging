@@ -23,3 +23,9 @@ Populate the wiserkeys.params file as described in the above repository.
 
 Run WiserLogger.py
 
+
+
+## My notes
+Logging
+https://www.loggly.com/use-cases/python-syslog-how-to-set-up-and-troubleshoot/
+https://signoz.io/blog/python-syslog/

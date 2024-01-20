@@ -241,5 +241,5 @@ try:
 
 except Exception as err:
     exc_type, exc_obj, exc_tb = sys.exc_info()
-    debug(1, "Error: Unexpected {}, {} at line number {}".format(err,type(err),exc_tb.tb_lineno))
+    debug(1, "Error: {}, {} at line number {}".format(err,type(err),exc_tb.tb_lineno))
     
