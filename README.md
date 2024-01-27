@@ -17,6 +17,9 @@ This project uses the API library from Angelo Santagata https://github.com/asant
 * In a temporary directiory: `git clone https://github.com/asantaga/wiserheatingapi`
 * sudo python3 setup.py install
 
+## Other dependencies
+paho-mqtt `apt install python3-paho-mqtt`
+
 ## Running this library
 
 Populate the wiserkeys.params file as described in the above repository.
